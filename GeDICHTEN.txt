@@ -2,6 +2,9 @@ zin 1
 
 zin 2 sun burns my skin
 
+zn 4
+
+zin yip yap yop 5
 ziin 3 deze zin is aangepast
  
 zn 4 Aangepast door Sara
@@ -11,3 +14,4 @@ zin 5
 zin 6
 
 zin 7
+zn 4
